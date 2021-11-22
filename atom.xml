@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>风落的博客小站</title>
+  <icon>https://www.gravatar.com/avatar/701500656c14e399f2321e57c01bcbde</icon>
   
+  <link href="http://fengluo.ink/atom.xml" rel="self"/>
   
-  <link href="http://example.com/atom.xml" rel="self"/>
-  
-  <link href="http://example.com/"/>
+  <link href="http://fengluo.ink/"/>
   <updated>2021-11-15T02:41:00.080Z</updated>
-  <id>http://example.com/</id>
+  <id>http://fengluo.ink/</id>
   
   <author>
-    <name>John Doe</name>
-    
+    <name>风落</name>
+    <email>3167881811@qq.com</email>
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
     <title>newpapername</title>
-    <link href="http://example.com/2021/11/15/newpapername/"/>
-    <id>http://example.com/2021/11/15/newpapername/</id>
+    <link href="http://fengluo.ink/2021/11/15/newpapername/"/>
+    <id>http://fengluo.ink/2021/11/15/newpapername/</id>
     <published>2021-11-15T02:41:00.000Z</published>
     <updated>2021-11-15T02:41:00.080Z</updated>
     
@@ -31,8 +31,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2021/11/15/hello-world/"/>
-    <id>http://example.com/2021/11/15/hello-world/</id>
+    <link href="http://fengluo.ink/2021/11/15/hello-world/"/>
+    <id>http://fengluo.ink/2021/11/15/hello-world/</id>
     <published>2021-11-15T01:03:56.806Z</published>
     <updated>1985-10-26T08:15:00.000Z</updated>
     
