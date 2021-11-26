@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>风落的博客小站</title>
+  <title>Fengluo&#39;s Blog</title>
   <icon>https://www.gravatar.com/avatar/701500656c14e399f2321e57c01bcbde</icon>
-  
+  <subtitle>风落的博客</subtitle>
   <link href="http://fengluo.ink/atom.xml" rel="self"/>
   
   <link href="http://fengluo.ink/"/>
